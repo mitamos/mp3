@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.playente.fun/iconos/BOLIVIA/ABYABOL.png" tvg-id="AbyaYalaTV.bo@SD",Abya Yala TV (720p)
-http://15.204.246.24:8080/AbyaYalaTvHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" tvg-id="AbyaYalaTV.bo@SD",SPN1
+https://logowik.com/content/uploads/images/espn24510.jpg
 #EXTINF:-1 tvg-logo="https://www.playente.fun/iconos/BOLIVIA/ABYABOL.png" tvg-id="AbyaYalaTV.bo@SD",Abya Yala TV
 https://seo.tv.bo/live.php?ch=abyayala_sd&token=seotv2026
 #EXTINF:-1 tvg-id="AlegriaTV.bo@SD",Alegria TV (720p)
