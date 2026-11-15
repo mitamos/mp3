@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-3 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b44286ff6e9c13374285f2f696077645.webp" tvg-name="win3CONSA",win3CONSA
+#EXTINF:-1 tvg-chno="1123" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b44286ff6e9c13374285f2f696077645.webp" tvg-name="ID 5990674",SAS 3
 https://tvf90.com/5.php?stream=azteca7
